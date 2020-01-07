@@ -1,0 +1,32 @@
+2018
+Hyperion	(Simmons, Dan)
+The Fall of Hyperion	(Simmons, Dan)
+Endymion	(Simmons, Dan)	(7/1)
+The Rise of Endymion	(Simmons, Dan)	(7/29
+Altered Carbon	(Morgan, Richard K.)	(8/19)
+Idoru	(Gibson, William)	(8/27)
+As I Lay Dying	(Faulkner, William)	(9/8)
+On the Road	(Kerouac, Jack)	(9/30)
+Utopia	(More, Thomas)	(10/5)
+The Handmaid's Tale	(Atwood, Margaret)	(10/13)
+A People's History of the United States	(Zinn, Howard)	(11/25)
+Schoolgirl	(Dazai, Osamu)	(11/26)
+Down and Out in Paris and London	(Orwell, George)	(12/2)
+Notes from Underground	(Dostoevsky, Fyodor)	(12/7)
+The Double	(Dostoevsky, Fyodor)	(12/16)
+A Farewell to Arms	(Hemingway, Ernest)	(12/28)
+Slaughterhouse-Five	(Vonnegut, Kurt)	(12/31)
+
+2019
+Anna Karenina	(Tolstoy, Leo)	(2/8)
+The Pilgrimage	(Coelho, Paulo)	(3/25)
+Better Than Human	(Buchanan, Allen)	(4/5)
+All Tomorrow's Parties	(Gibson, William)	(5/31)
+Mistborn	(Sanderson, Brandon)	(6/25)
+Burning Chrome	(Gibson, William)	(8/3)
+No Longer Human	(Dazai, Osamu)	(8/9)
+The Princess Bride	(Goldman, William)	(8/22)
+Shinju	(Rowland, Laura Joh)	(9/2)
+The Man in the High Castle	(Dick, Philip K.)	(12/28)
+
+# vim: set expandtab& ts=8 sts=8 sw=8:
