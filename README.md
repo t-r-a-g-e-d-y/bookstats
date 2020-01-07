@@ -10,7 +10,9 @@ Includes an interactive mode for printing stats and searching the log by book or
 
 Log format is simply:
 
-Title (Author First, Last Middle) (Date Finished)  
+[Year (nnnn)]  
+Title (Author First, Last Middle) (Date Finished)
+
 Title, Author, and Date are tab (\t) separated
 
 I use vim to edit my book log and include this modeline at the bottom of the log:  
