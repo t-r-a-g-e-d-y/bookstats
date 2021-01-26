@@ -10,7 +10,7 @@ Includes an interactive mode for printing stats and searching the log by book or
 
 Log format is simply:
 
-[Year (nnnn)]  
+YEAR
 Title (Author First, Last Middle) (Date Finished)
 
 Title, Author, and Date are tab (\t) separated
