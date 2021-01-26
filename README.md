@@ -6,7 +6,10 @@ Books read by author
 Count per year  
 Count per author  
 
-Includes an interactive mode for printing stats and searching the log by book or author.
+Example usage:  
+`python -m bookstats ~/books.txt --all-tally`
+
+~~Includes an interactive mode for printing stats and searching the log by book or author.~~  
 
 Log format is simply:
 
